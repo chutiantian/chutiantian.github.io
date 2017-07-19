@@ -990,8 +990,9 @@ a {
 #header .header-nav .social ._500px::before {
   content: '\f26e';
 }
-.duoshuo {
-  padding: 0 40px;
+#SOHUCS {
+  padding: 0 40px !important;
+  width: inherit !important;
 }
 #disqus_thread {
   padding: 0 40px;
